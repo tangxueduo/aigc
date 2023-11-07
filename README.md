@@ -1,0 +1,2 @@
+# aigc
+learn aigc
